@@ -1,0 +1,10 @@
+PROGRAM TEST;
+VAR
+  I: INTEGER;
+  C, CH: CHAR;
+BEGIN
+  WRITELN(''' NOT EQUAL <>');
+  WRITELN('''');
+  WRITELN('NOT EQUAL <>''');
+
+END.

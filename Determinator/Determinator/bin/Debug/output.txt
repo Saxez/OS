@@ -1,0 +1,3 @@
+H ->  0AS| 1AS
+AS ->  1AS| 0BS
+BS ->  0AS

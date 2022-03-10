@@ -1,0 +1,7 @@
+F:\OS\Minimization\Minimization\bin\Debug\Minimization.exe.config
+F:\OS\Minimization\Minimization\bin\Debug\Minimization.exe
+F:\OS\Minimization\Minimization\bin\Debug\Minimization.pdb
+F:\OS\Minimization\Minimization\obj\Debug\Minimization.csproj.AssemblyReference.cache
+F:\OS\Minimization\Minimization\obj\Debug\Minimization.csproj.CoreCompileInputs.cache
+F:\OS\Minimization\Minimization\obj\Debug\Minimization.exe
+F:\OS\Minimization\Minimization\obj\Debug\Minimization.pdb

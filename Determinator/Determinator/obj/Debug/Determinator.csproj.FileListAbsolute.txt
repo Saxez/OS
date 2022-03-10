@@ -1,0 +1,7 @@
+F:\determinization\Determinator\Determinator\bin\Debug\Determinator.exe.config
+F:\determinization\Determinator\Determinator\bin\Debug\Determinator.exe
+F:\determinization\Determinator\Determinator\bin\Debug\Determinator.pdb
+F:\determinization\Determinator\Determinator\obj\Debug\Determinator.csproj.AssemblyReference.cache
+F:\determinization\Determinator\Determinator\obj\Debug\Determinator.csproj.CoreCompileInputs.cache
+F:\determinization\Determinator\Determinator\obj\Debug\Determinator.exe
+F:\determinization\Determinator\Determinator\obj\Debug\Determinator.pdb
